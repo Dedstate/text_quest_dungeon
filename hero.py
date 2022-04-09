@@ -1,6 +1,3 @@
-import random
-
-
 class Hero:
     def __init__(self, name):
         self.hp = 100
@@ -31,5 +28,3 @@ class Hero:
 
 
 items = ["ржавый меч", "монеток", "обожженный щит", "драная накидка"]
-
-        
